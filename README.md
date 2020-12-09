@@ -36,7 +36,7 @@ The code makes use of Tensorflow and Keras libraries in order to train a Regress
 The optimizer used was Adam, while the loss function was **MSE**, which is regularly used to Regression problems. After 10 epochs, the performance of the model was already converged, as we can see in the graph below:
 
 <p allign = 'center'>
-    <img src = 'output/plot.png'
+    <img allign = 'center' src = 'output/plot.png'>
 </p>
 
 
