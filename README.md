@@ -1,6 +1,6 @@
 # Object Detection
 
-This repository contains a simple project for the implementation of an object detection system, using bounding boxes. The project was implemented using **Python** programming language and especially the **Keras** framework.
+This repository contains a simple project for the implementation of an object detection system, using bounding boxes. The project was implemented using **Python** programming language and specifically the **Keras** framework.
 
 
 
