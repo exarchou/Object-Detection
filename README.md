@@ -46,5 +46,5 @@ The optimizer used was Adam, while the loss function was **MSE**, which is regul
 
 To test the performance of our model we can see the predicted bounding boxes to some random images, sampled for test. An example can be seen below:
 <p allign = 'center'>
-    <img src = 'test/image_0054.jpg' width = '50%> <img src = 'output/image_0054.jpg' width = '50%>
+    <img src = 'test/image_0054.jpg' width = '50%'> <img src = 'output/image_0054.jpg' width = '50%'>
 </p>
